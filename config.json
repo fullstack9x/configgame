@@ -1,6 +1,6 @@
 {
-"isUpdate":true,
+"isUpdate":false,
 "hotupdate_android":"",
-"hotupdate_ios":"https://sun005.win/hotupdate/ios/",
-"domain":"sun005.win"
+"hotupdate_ios":"",
+"domain":""
 }
